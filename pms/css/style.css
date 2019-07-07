@@ -1,0 +1,48 @@
+#register form{
+    background: #226174;
+    padding: 63px 116px;
+    margin-left: 120px;
+    color: #fff;
+}
+#login form{
+    background: #F4605C;
+    padding: 30px 67px;
+    margin-left: 50px;
+    color: #fff;
+}
+
+  #name_mesg{
+            color: red;
+        }
+        #email_mesg{
+            color: red;
+        }
+        #radio_mesg{
+            color: red;
+        }
+
+.P_home span{
+    color: #F4605C;
+        
+    }
+ .btn-danger{
+    margin-top: -38px;
+}
+.btn-primary{
+    margin-top: 50px;
+}
+.p_trtmnt_inf h1{
+    color: #226174;
+    font-weight: bold;
+}
+.p_trtmnt_form{
+    color:#F4605C;
+    font-weight: bold;
+}
+form{
+    font-weight: bold;
+}
+
+.pat_serch{
+    margin-bottom: 200px;
+}
